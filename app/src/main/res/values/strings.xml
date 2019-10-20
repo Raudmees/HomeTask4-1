@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HomeTask4-1</string>
+    <string name="enter_miles">Enter miles</string>
+    <string name="enter_kilometers">Enter kilometers</string>
+
+    <plurals name="numberOfItems">
+        <item quantity="one">%d item</item>
+        <item quantity="other">%d items</item>
+    </plurals>
+</resources>
